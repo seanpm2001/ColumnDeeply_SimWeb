@@ -9,4 +9,4 @@ If you want to change the app icon you can do so using Android Studio's built in
 Once the URL has been changed build the app and it's ready to go
 
 # Licence
-Distributed under the GNU General Public License v3 licence. See the [LICENCE](https://github.com/columndeeply/simweb/blob/main/LICENSE) file for more information.
+Distributed under the GNU General Public License v3 licence. See the [LICENCE](https://github.com/columndeeply/simweb/blob/main/LICENCE) file for more information.
